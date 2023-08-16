@@ -1,0 +1,1 @@
+print('One' 'Two' 'Three')
