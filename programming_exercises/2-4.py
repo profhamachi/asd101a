@@ -1,4 +1,4 @@
-# Variables to hold the prices of eah item, the subtotal,
+# Variables to hold the prices of each item, the subtotal,
 # and the total.
 item1 = 0.0
 item2 = 0.0
